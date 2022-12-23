@@ -1,0 +1,13 @@
+body{
+    background-image: url('pic1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+.helppage{
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  display: flex;
+}

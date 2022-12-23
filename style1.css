@@ -1,0 +1,44 @@
+body{
+    background-image: url('helpp.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 95% 95%;
+  }
+
+.helppage{
+  top:0px;
+  right:0px;
+  padding:5px 20px;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  
+}
+/* .helppage mydiv :hover{
+    -webkit-bor
+    color:transparent;
+} */
+.para{
+    font-size: 25px;
+    padding:5px 20px;
+    font-weight: 200;
+    text-align: center;
+}
+.anc{
+    font-size: 22px;
+    padding:5px 20px;
+    font-weight: 200;
+    color:black;
+    border: 2px solid grey;
+    border-radius: 50px;
+    text-decoration: none;
+    display:inline-block;
+    background-color: rgb(170, 219, 143);
+    
+    
+}
+.adi{
+  /* position: absolute;
+   left:300px; */
+   text-align: center;
+}
